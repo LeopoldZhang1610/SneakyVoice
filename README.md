@@ -1,4 +1,4 @@
-# TTS Model Attack Framework
+# SneakyVoice Attack Framework
 The running audio samples are in the uploaded folder(/Supplementary Material/example")
 
 This document describes the detailed process of attacking the TTS model and how to use our framework for generating adversarial perturbations in voice cloning and voice conversion tasks.
